@@ -12,3 +12,4 @@ For connection to your WiFi, create your own credentials.h and put it in \includ
 const char* ssid = "Enter SSID here";
 const char* password = "Enter Password here";
 ```
+
